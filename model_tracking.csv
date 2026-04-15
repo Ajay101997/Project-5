@@ -1,0 +1,2 @@
+Run_ID,Model,Parameters,Start_Time,End_Time,Metric,Value,Artifact
+1,KMeans,n_clusters=3,2026-04-16 02:22:20.381336,2026-04-16 02:22:28.826367,WCSS,1.1768289430056649e+29,kmeans_model.pkl
