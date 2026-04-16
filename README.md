@@ -96,22 +96,27 @@ The project successfully analyzed telecom data, segmented users, stored results 
 ## 📸 Screenshots
 
 Univariate Analysis:
+
 <img width="778" height="303" alt="image" src="https://github.com/user-attachments/assets/16f72a22-a413-44f7-9e86-7442c7361643" />
 
 <img width="778" height="345" alt="image" src="https://github.com/user-attachments/assets/5d291aa4-c68c-4a55-9e9d-634ca8fa275f" />
 
 Bivariate Analysis:
+
 <img width="778" height="303" alt="image" src="https://github.com/user-attachments/assets/7531ed03-32e6-486e-86cf-84fc323c034e" />
 
 <img width="778" height="345" alt="image" src="https://github.com/user-attachments/assets/1bc7e887-f327-498d-998d-9630a5e341e5" />
 
 Correlation Heatmap:
+
 <img width="759" height="690" alt="image" src="https://github.com/user-attachments/assets/a7a87319-07d1-437d-bd7f-b02c353ddfe3" />
 
 Elbow graph:
+
 <img width="683" height="511" alt="image" src="https://github.com/user-attachments/assets/86aa8233-3311-4d35-979a-1dadfd0c88ca" />
 
 SQL output:
+
 <img width="683" height="526" alt="image" src="https://github.com/user-attachments/assets/d06a95ae-9d59-4806-830f-bd8af2530721" />
 
 <img width="583" height="511" alt="image" src="https://github.com/user-attachments/assets/80164461-3f31-4000-bcd2-9e02b817a627" />
