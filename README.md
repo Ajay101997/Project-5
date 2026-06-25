@@ -1,12 +1,12 @@
 # Project-5
-# 📊 Telecom Data Analysis & User Clustering
+#  Telecom Data Analysis & User Clustering
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing telecom user data to understand user behavior and segment users based on their engagement and experience. Machine Learning techniques and SQL Server are used for analysis, storage, and tracking.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Perform Exploratory Data Analysis (EDA)
 - Create meaningful features (Engagement, Experience, Satisfaction)
 - Segment users using KMeans Clustering
@@ -15,7 +15,7 @@ This project focuses on analyzing telecom user data to understand user behavior 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset contains telecom user activity data including:
 - Data usage (Download & Upload)
 - Session duration
@@ -24,14 +24,14 @@ The dataset contains telecom user activity data including:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - SQL Server
 - Jupyter Notebook
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 - Univariate Analysis (distribution of features)
 - Bivariate Analysis (relationship between variables)
 - Multivariate Analysis
@@ -39,20 +39,20 @@ The dataset contains telecom user activity data including:
 
 ---
 
-## 🛠️ Feature Engineering
+##  Feature Engineering
 - Engagement Score → Total Data Usage
 - Experience Score → Session Duration
 - Satisfaction Score → Average of both
 
 ---
 
-## 🤖 Model Building
+##  Model Building
 - Algorithm: KMeans Clustering
 - Optimal Clusters: K = 3 (Elbow Method)
 
 ---
 
-## 📊 Results
+##  Results
 - Users segmented into 3 clusters:
   - High usage users
   - Medium usage users
@@ -61,26 +61,29 @@ The dataset contains telecom user activity data including:
 
 ---
 
-## 🗄️ SQL Integration
+##  SQL Integration
 - Exported processed data to SQL Server
 - Table Name: `user_scores`
 - Verified using SELECT query
 
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d0a046f1-5e98-4a80-b20b-a782149759b4" />
+
+
 ---
 
-## 📈 Model Tracking
+##  Model Tracking
 - Recorded parameters, execution time, and metrics
 - Stored tracking data in CSV file
 
 ---
 
-## 💾 Model Artifact
+##  Model Artifact
 - Saved trained model as `kmeans_model.pkl`
 - Enables reuse without retraining
 
 ---
 
-## 💡 Business Insights
+##  Business Insights
 - Identifies high-value users
 - Helps improve low-engagement users
 - Supports targeted marketing
@@ -88,12 +91,12 @@ The dataset contains telecom user activity data including:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 The project successfully analyzed telecom data, segmented users, stored results in SQL Server, and implemented model tracking. It provides valuable insights for business decision-making.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Univariate Analysis:
 
@@ -123,11 +126,11 @@ SQL output:
 
 ---
 
-## 🙌 Acknowledgement
+##  Acknowledgement
 This project was completed as part of a data analytics/machine learning assignment.
 
 ---
 
-## 📧 Contact
+##  Contact
 Mr. Ajay Kumar Sahu  
 (ajaykumarsahu2017.1997@gmail.com)
