@@ -66,7 +66,7 @@ The dataset contains telecom user activity data including:
 - Table Name: `user_scores`
 - Verified using SELECT query
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d0a046f1-5e98-4a80-b20b-a782149759b4" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/d0a046f1-5e98-4a80-b20b-a782149759b4" />
 
 
 ---
